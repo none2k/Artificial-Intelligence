@@ -1,0 +1,7 @@
+(volar dron1 base almacen)
+(recoger dron1 paq1 almacen)
+(recargar dron1 almacen)
+(volar dron1 almacen cliente)
+(entregar dron1 paq1 cliente)
+(recargar dron1 cliente)
+(volar dron1 cliente base)
